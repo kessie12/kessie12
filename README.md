@@ -2,9 +2,8 @@
 ---
 - Currently study in Asia Pacific University
 - Bachelor Degree of Computer Science specialism in Cybersecirity
-- Reach me through:
-  LinkedIn: https://www.linkedin.com/in/tiew-khai-en-6a1808292/ or
-  Gmail   : tke041221@gmail.com
+- LinkedIn: https://www.linkedin.com/in/tiew-khai-en-6a1808292/ 
+- Gmail   : tke041221@gmail.com
 
 
 ## 🌐 Socials:
